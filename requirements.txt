@@ -1,0 +1,25 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+xgboost>=2.0
+lightgbm>=4.0
+
+# Visualización
+matplotlib>=3.7
+seaborn>=0.12
+plotly>=5.15
+
+# Interpretabilidad
+shap>=0.42
+
+# Notebooks
+jupyterlab>=4.0
+ipywidgets>=8.0
+
+# Dashboard
+streamlit>=1.28
+
+# Utilidades
+joblib>=1.3
+kagglehub>=0.3
